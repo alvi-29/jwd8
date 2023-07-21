@@ -21,7 +21,7 @@
           <th>Jenis Kelamin</th>
           <th>Agama</th>
           <th>Sekolah Asal</th>
-          
+          <th>Action</th>
         </tr>
       </thead>
       <tbody>
